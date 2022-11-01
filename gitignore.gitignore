@@ -1,4 +1,0 @@
-#ignore all qt userfiles
-*.user
-#ignore debug folder
-Debug
